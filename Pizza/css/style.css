@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+header {
+    background-color: #222222;
+    box-shadow: 10px  20px 20px grey;
+    display: block;
+}
+.header {
+    display: inline-block;
+     
+}
+#logo {
+    padding: 10px 912px 10px 20px; 
+}
+
+ul {
+    display: flex;
+    font-size: 16px;
+  
+}
+header footer nav {
+    color: white;
+   
+    
+}
+
+/* #imagenLogo {
+    padding: 10px 912px 36px 20px;   
+}
+#textoLogo {
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px 912px 36px 122px;
+}
+#pizza {
+    color: green;
+}
+#y {
+    color: white;
+}
+#front {
+    color: red;
+} */
